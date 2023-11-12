@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url(the-beautiful-shining-stars-in-the-night-sky.jpg);
+    background-image: url(1625653809_27-kartinkin-com-p-akatsuki-oboi-krasivie-28.jpg);
     margin: 0;
     background-size: cover;
     background-position: center center;
@@ -33,7 +33,7 @@ em {
 
 div.wrap3.lh-lg.font-monospace {
     padding: 10px;
-    margin: 70px 25px;
+    margin: 300px 25px;
     border-radius: 10px;
     box-shadow: 0px 0px 100px rgb(184, 2, 2);
     display: flex;
@@ -48,17 +48,16 @@ div.wrap3.lh-lg.font-monospace {
 
 
 div.footer-bg-lg {
+
     display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
+    flex-direction: row;
+    justify-content: center;
     flex-wrap: wrap;
-    background: #0088ff;
-    background: -webkit-radial-gradient(circle farthest-side at top center, #0088ff 10%, #000000 100%);
-    background: -moz-radial-gradient(circle farthest-side at top center, #0088ff 10%, #000000 100%);
-    background: radial-gradient(circle farthest-side at top center, #0088ff 10%, #000000 100%);
-    color: #05b0ff;
-    align-content: center;
-    align-items: center;
+    background: #000000;
+    background: -webkit-radial-gradient(circle farthest-side at top center, #000000 10%, #000000 100%);
+    background: -moz-radial-gradient(circle farthest-side at top center, #000000 10%, #000000 100%);
+    background: radial-gradient(circle farthest-side at top center, #000000 10%, #000000 100%);
+    color: #ffffff;
 }
 
 
@@ -87,7 +86,7 @@ div.footer-bg-lg {
     div.wrap3.lh-lg.font-monospace {
         order: 2;
         padding: 50px;
-        margin: 224px 600px;
+        margin: 300px 600px;
         width: 800px;
         border-radius: 10px;
         box-shadow: 0px 0px 100px rgb(184, 2, 2);
